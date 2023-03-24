@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   #repository: gcr.io/heptio-images/ks-guestbook-demo
-  repository: 997329461819.dkr.ecr.ap-southeast-2.amazonaws.com/ks-guestbook-demo:latest
+  repository: 997329461819.dkr.ecr.ap-southeast-2.amazonaws.com/ks-guestbook-demo
   #tag: 0.1
   tag: latest
   pullPolicy: IfNotPresent
